@@ -162,6 +162,8 @@ a {
 .title {
   font-size: 60px;
   line-height: 63px;
+  font-family: 'Ravi Prakash', cursive;
+  font-weight: 400;
 }
 
 .descr {
@@ -239,6 +241,9 @@ a {
   -o-transition: all .3s;
   transition: all .3s;
   text-align: center;
+  font-family: 'Playfair Display', serif;
+  font-weight: 500;
+  font-style: italic;
 }
 
 .menu__list-item:hover {
@@ -272,6 +277,7 @@ a {
   font-size: 62px;
   line-height: 65px;
   color: #00CCB8;
+  font-family: 'Akaya Telivigala', cursive;
 }
 
 .first-screen__link {
@@ -634,6 +640,7 @@ a {
 .footer__top {
   background-color: #fff;
   padding-top: 40px;
+  padding-bottom: 5px;
 }
 
 .footer__top-title {
